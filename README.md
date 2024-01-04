@@ -32,6 +32,57 @@ Observation is one of the evaluation approaches, and it will happen while tester
 
 After the completion of the testing session, I realized most testers believe random sound pitch patterns is a more effective approach, since they think the alert level is higher and stronger. On the other hand, the average reaction time on the random sound pitch pattern is also shorter, which indicates humans will react faster under this pattern of sound feedback. There are various ways to make the current design better, for instance, I can create more sound pitch patterns, as the quantitative and qualitative data shows variance on sound pitch can enhance the system efficiencies. These useful insights help me to find a proper solution for the challenge that I raised earlier, so that I have a clear direction in my future improvements. 
 
+
+![image(1)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/5290de4a-4442-417b-a803-ad60a28004f8)
+
+The image above is the initial Unity game screen.
+
+![image(2)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/5b1d1eb6-cd6c-4093-8a83-93fa6d7085a5)
+
+The image above shows one of the rectangles changes to green at a random time.
+
+![image(3)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/835ef10c-f5ea-4746-8347-5a4f1d5496b5)
+
+The image above shows if the tester pressed the correct aluminum button, the timer stops and show the reaction time.
+
+![images(4)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/efb35288-6691-42dc-ab1e-c9a69ba1d882)
+
+The image above shows if the correct button press is not detected, it would show the screen above.
+
+![images(5)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/7e187ef1-7dde-4d36-a8e9-492897b9b3f1)
+
+In the image above, as mentioned before, there are 2 patterns to test. When pattern one is enabled, it will show the text "pattern one is activated".
+
+![image(6)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/7442f521-70a6-4ce8-99a5-0b661119ab4f)
+
+The image above shows when pattern 2 is activiated, it will show the text "pattern two is activated".
+
+![image(7)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/cbf8dc96-a59b-475b-babe-d56842d6819e)
+
+The image above shows this is the circuit playground. There are 4 self-made aluminum buttons, and they are attached on the capacitive touch-sensitive pads on the circuit playground.
+
+![image(8)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/94c48317-7473-428c-afe7-6c50c3d39888)
+
+In the image above, this interaction diagram shows how the prototype works. It explains from the starting point to the ending point.
+
+![image(9)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/d57d4ff0-85a0-41d0-a00f-5e7637976176)
+
+The image above shows how pattern one (constant sound pitches) looks like in a graph.
+
+![image(10)](https://github.com/jefjefhui/Digital-Prototyping-Interactive-Prototype-3/assets/73283123/6edbb511-0e3a-47b2-8362-6c57e36387df)
+
+The image above is how pattern two (random sound pitches) looks like in a graph.
+
+
+
+
+
+
+
+
+
+
+
 Detailed information of prototype 3,background information , testing session, and key takeaways can be found in the statement of delivery. 
 
 The following link shows the prototype 3 video, which demonstrates how the  interactive prototype 3 works. Video Link: https://drive.google.com/file/d/1HteMmmTabVaYpyyC_8UEcBKJ6UJA9-P7/view
