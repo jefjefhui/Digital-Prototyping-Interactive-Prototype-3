@@ -34,4 +34,4 @@ After the completion of the testing session, I realized most testers believe ran
 
 Detailed information of prototype 3,background information , testing session, and key takeaways can be found in the statement of delivery. 
 
-The following link shows the prototype 3 video, which demonstrates how the  interactive prototype 3 works.  
+The following link shows the prototype 3 video, which demonstrates how the  interactive prototype 3 works. Video Link: https://drive.google.com/file/d/1HteMmmTabVaYpyyC_8UEcBKJ6UJA9-P7/view
