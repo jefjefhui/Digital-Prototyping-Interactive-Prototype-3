@@ -13,7 +13,7 @@ The final stage is the testing session. In the testing session, I will explain t
 The interactive prototype project has three digital prototypes. Each of these prototypes is corresponding to a specific challenge/aspect on the problem space we mentioned earlier.
 
 
-The coding folder contains the Arduino codes and the Unity codes.
+The Prototype3_Coding_Files_link.txt contains the Arduino codes and the Unity codes.
 
 The statement of delivery contains the documentation of the digital prototype and the testing session information.
 
